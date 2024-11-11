@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+locust
+aiohttp
+requests
